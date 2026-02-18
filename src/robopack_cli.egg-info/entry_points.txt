@@ -1,0 +1,2 @@
+[console_scripts]
+robopack = robopack_cli.cli:main
