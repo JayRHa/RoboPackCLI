@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides cLI tool for interacting with the Robopack API for automated software packaging.
+CLI tool for interacting with the Robopack API for automated software packaging.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
