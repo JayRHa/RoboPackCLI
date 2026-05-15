@@ -1,18 +1,3 @@
-<!-- repo-standard:start -->
-# Robopack CLI
-
-CLI tool for interacting with the Robopack API for automated software packaging.
-
-| Area | Stack | Visibility |
-| --- | --- | --- |
-| CLI Tooling | Python | Public |
-
-**Repository:** `JayRHa/robopack-cli`  
-**Topics:** `robopack`, `cli`, `python`, `packaging`, `automation`
-<!-- repo-standard:end -->
-
----
-
 <div align="center">
   <h1>Robopack CLI</h1>
   <p><strong>Search, import, package, and deploy applications from Robopack in one scriptable terminal interface.</strong></p>
